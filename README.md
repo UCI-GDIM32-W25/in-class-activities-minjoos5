@@ -13,10 +13,10 @@
 ### Activity 2
 1. 10
 2. 2
-3. prints "hello world" message
+3. prints "hello world" message every frame to the console
 4. Monobehaviour
-5. prints message "x = (input integer)"
-6. prints "x = 10"
+5. prints message "x = 10" to the console
+6. parameter and argument
 7. Transform is a class so cannot call for translation
 8. should use _playerTransform
 
