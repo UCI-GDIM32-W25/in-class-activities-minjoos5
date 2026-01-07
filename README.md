@@ -10,4 +10,14 @@
 - lecture slides & course resources (including unity official website)
 - itch link checkkkkkk
 
+### Activity 2
+1. 10
+2. 2
+3. prints "hello world" message
+4. Monobehaviour
+5. prints message "x = (input integer)"
+6. prints "x = 10"
+7. Transform is a class so cannot call for translation
+8. should use _playerTransform
 
+### Activity 3
