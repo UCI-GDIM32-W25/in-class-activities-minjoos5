@@ -22,3 +22,10 @@
 
 ### Activity 3
 [google doc](https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?usp=sharing)
+
+
+## W2 class activities
+
+
+### Activity 1
+![classactivity](https://github.com/user-attachments/assets/bca4f035-dcb2-4e7b-bac2-c97ca2d104d9)
