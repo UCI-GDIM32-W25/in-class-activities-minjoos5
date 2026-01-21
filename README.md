@@ -43,7 +43,7 @@ I created game objects (penguin player, coin prefab, UI TMP texts, and scripts o
 
 ## W3 class activities
 
-### Activity 1 & 2
+### Activity 0 - 2
 
 
 Partner: Sonia Mangat
