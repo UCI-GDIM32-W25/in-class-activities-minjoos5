@@ -50,4 +50,5 @@ Partner: Sonia Mangat
 
 
 ### Activity 3
+![2023  6  27  - 250](https://github.com/user-attachments/assets/ac3ae340-1d1e-4ae2-9363-5808c57a8d8d)
 
