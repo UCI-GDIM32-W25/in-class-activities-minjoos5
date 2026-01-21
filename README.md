@@ -37,3 +37,17 @@
 [MG2 repo link](https://github.com/UCI-GDIM32-W25/mg2-oop-review-minjoos5/commit/c767fd84fcad7a0ee93da43e7d80704bc77ab227)
 
 I created game objects (penguin player, coin prefab, UI TMP texts, and scripts of them), and added components to them (rigidbody 2D, collider 2D, etc)
+
+
+
+
+## W3 class activities
+
+### Activity 1 & 2
+
+
+Partner: Sonia Mangat
+
+
+### Activity 3
+
