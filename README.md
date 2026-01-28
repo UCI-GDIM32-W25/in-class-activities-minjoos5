@@ -72,3 +72,8 @@ A: When I added multiple Locator game objects in Unity (copy & paste), the last 
 ### Activity 2
 ![KakaoTalk_20260127_183848724](https://github.com/user-attachments/assets/791b2899-efe8-491e-a5c2-73b536cdf153)
 
+
+### Activity 3
+[MG4 repo link](https://github.com/minjoos5/MG4)
+
+I created Unity file and added some basic sprites for the game
