@@ -66,7 +66,7 @@ Partner: Sonia Mangat
 Q: Add multiple Locator objects to the Scene. What happens to the Locator objects when you run the game, and why?
 
 
-A: 
+A: When I added multiple Locator game objects in Unity (copy & paste), the last Locator I created worked in the scene, and the rest of the Locators were disabled in the game. Multiple locators didn't ruin my game, but only one locator worked in the game. Instance let the game refers to the same game object, although I created multiple locators in the game hierarchy.
 
 
 ### Activity 2
