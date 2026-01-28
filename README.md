@@ -52,3 +52,22 @@ Partner: Sonia Mangat
 ### Activity 3
 ![2023  6  27  - 250](https://github.com/user-attachments/assets/ac3ae340-1d1e-4ae2-9363-5808c57a8d8d)
 
+
+## W4 class activities
+
+### Activity 0
+
+
+Partner: Sonia Mangat
+
+
+### Activity 1
+
+Q: Add multiple Locator objects to the Scene. What happens to the Locator objects when you run the game, and why?
+
+
+A: 
+
+
+### Activity 2
+
