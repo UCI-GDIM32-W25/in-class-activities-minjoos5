@@ -90,11 +90,16 @@ What do you think of the design of these interfaces and abstract classes? Would 
 ### Activity 2
 
 In the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
-- Model: EnemyStats, ItemW5Demo2
-- View: Dialogue Bubbles, Inventory UI
-- Controller: PlayerW5Demo2, EnemyW5Demo2
-- they shows the aspect of MVC through their connection between the classes. When the controller gets the input information from the player, it calculates it with model classes and shows it on the screen (UI screen).
-- 
+
+- They show the aspect of MVC through their connection between the classes. When the controller gets the input information from the player, it calculates it with model classes and shows it on the screen (UI screen).
+
+### Activity 3
+
+#### Senario 1
+I think inheritance, finite state machine, and singleton should be in the game, like Project Diva.
+- There are multiple different beats that share the same action from the player
+- FSM to update the state of the player and beat throughout the game (also to change the animation of each beat)
+- Singleton to calculate the score and show up in the UI --> Singleton makes it easier and more concise
 
 ### Activity 4
 - Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
