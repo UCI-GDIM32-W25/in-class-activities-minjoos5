@@ -97,5 +97,5 @@ In the second demo, what classes represent the Model, View, and Controller aspec
 - 
 
 ### Activity 4
-Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
-[Final Project Proposal](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?usp=sharing)
+- Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
+- [Final Project Proposal](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?usp=sharing)
