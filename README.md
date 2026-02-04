@@ -85,3 +85,11 @@ I created Unity file and added some basic sprites for the game
 
 What do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
 - I think it's better to use abstract classes in games like these because the results for each item are different. In addition, it's difficult to create unique methods for each item, which is inefficient. Thus, I think it's better to use an abstract class in the game to manipulate methods more concisely. I want to keep it the same in managing the methods and expected outcomes in the game.
+
+
+### Activity 2
+
+In the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
+- Model: EnemyStats, ItemW5Demo2
+- View: Dialogue Bubbles, Inventory UI
+- Controller: PlayerW5Demo2, EnemyW5Demo2, 
