@@ -93,4 +93,9 @@ In the second demo, what classes represent the Model, View, and Controller aspec
 - Model: EnemyStats, ItemW5Demo2
 - View: Dialogue Bubbles, Inventory UI
 - Controller: PlayerW5Demo2, EnemyW5Demo2
-- they shows the aspect of MVC through their connection between the classes. When the controller gets the input information from the player, it calculates it with model classes and shows it on the screen (UI screen). 
+- they shows the aspect of MVC through their connection between the classes. When the controller gets the input information from the player, it calculates it with model classes and shows it on the screen (UI screen).
+- 
+
+### Activity 4
+Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
+[Final Project Proposal](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?usp=sharing)
