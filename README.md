@@ -92,4 +92,5 @@ What do you think of the design of these interfaces and abstract classes? Would 
 In the second demo, what classes represent the Model, View, and Controller aspects of the MVC pattern used in the scene?
 - Model: EnemyStats, ItemW5Demo2
 - View: Dialogue Bubbles, Inventory UI
-- Controller: PlayerW5Demo2, EnemyW5Demo2, 
+- Controller: PlayerW5Demo2, EnemyW5Demo2
+- they shows the aspect of MVC through their connection between the classes. When the controller gets the input information from the player, it calculates it with model classes and shows it on the screen (UI screen). 
