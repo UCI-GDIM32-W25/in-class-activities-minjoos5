@@ -101,6 +101,15 @@ I think inheritance, finite state machine, and singleton should be in the game, 
 - FSM to update the state of the player and beat throughout the game (also to change the animation of each beat)
 - Singleton to calculate the score and show up in the UI --> Singleton makes it easier and more concise
 
+#### Senario 2
+- FSM to manipulate the animations of each weapon and playable characters
+- MVC to calculate and show the reaction based on the weapon and attack made by the player
+- Scriptable Objects to manipulate various variables simultaneously
+
+#### Senario 3
+- FSM to update the player's status (emotion, farming, etc)
+- Inheritance & singleton to manipulate multiple items and foods (apple, banana, orange will share similar animation and behavior --> abstract class and overriding required)
+
 ### Activity 4
 - Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
 - [Final Project Proposal](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?usp=sharing)
