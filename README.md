@@ -113,3 +113,8 @@ I think inheritance, finite state machine, and singleton should be in the game, 
 ### Activity 4
 - Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
 - [Final Project Proposal](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?usp=sharing)
+
+## W6 GDW alternative assignment
+
+- [Alternative Assignment](https://docs.google.com/document/d/17i9UxM3GMZ1Zy1EU4e3AI8FzxnrcviEbiPTcdNS9ADY/edit?usp=sharing)
+- Please check the second tab!!
