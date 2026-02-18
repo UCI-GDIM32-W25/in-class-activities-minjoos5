@@ -132,3 +132,8 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 
 
 ### Activity 4
+- Sonia: Player and item script
+- Minjoo: Setting up UI
+- Milla: Building Scene and uploading assets
+
+### Activity 5
