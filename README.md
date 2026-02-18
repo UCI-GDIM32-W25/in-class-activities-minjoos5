@@ -123,6 +123,9 @@ I think inheritance, finite state machine, and singleton should be in the game, 
 
 ### Activity 1
 
+- Duck detects the player (chicken) by using a raycast (visualized by Gizmo in the scene)
+- If the player hides behind the tree --> duck cannot detect the player, and it is shown by the dot in the scene
+- The singleton is useful in managing duck's animation in this case (see player (run/red), not see player (mingle around))
 
 ### Activity 2
 Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
