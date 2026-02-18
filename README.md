@@ -79,7 +79,7 @@ A: When I added multiple Locator game objects in Unity (copy & paste), the last 
 I created Unity file and added some basic sprites for the game
 
 
-## W4 class activities
+## W5 class activities
 
 ### Activity 1
 
@@ -118,3 +118,17 @@ I think inheritance, finite state machine, and singleton should be in the game, 
 
 - [Alternative Assignment](https://docs.google.com/document/d/17i9UxM3GMZ1Zy1EU4e3AI8FzxnrcviEbiPTcdNS9ADY/edit?usp=sharing)
 - Please check the second tab!!
+
+## W7 class activities
+
+### Activity 1
+
+
+### Activity 2
+Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
+
+### Activity 3
+![image0](https://github.com/user-attachments/assets/5e6a70b4-178d-4c97-85da-aaa11c1eeeeb)
+
+
+### Activity 4
