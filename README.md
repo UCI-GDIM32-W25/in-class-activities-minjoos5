@@ -138,6 +138,6 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 - Sonia: Player and item script
 - Minjoo: Setting up UI
 - Milla: Building Scene and uploading assets
-- [Project Tracker]{https://docs.google.com/document/d/1OFqRcPZ5ifyW1PyqHkWC3omZ_qQ_pCy577yJh6sZSFs/edit?usp=sharing)
+- [Project Tracker](https://docs.google.com/document/d/1OFqRcPZ5ifyW1PyqHkWC3omZ_qQ_pCy577yJh6sZSFs/edit?usp=sharing) 
 
 ### Activity 5
