@@ -141,3 +141,5 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 - [Project Tracker](https://docs.google.com/document/d/1OFqRcPZ5ifyW1PyqHkWC3omZ_qQ_pCy577yJh6sZSFs/edit?usp=sharing) 
 
 ### Activity 5
+- [UI commit link](https://github.com/jedi-narwhal/GDIM32-Final/commit/228ef11b8ed65b63d9623ac844624c10949434f6)
+- I worked on game over, game start, and timer on the gameplay screen (UI)
