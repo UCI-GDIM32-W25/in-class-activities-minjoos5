@@ -161,6 +161,13 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 - The player's sensitivity is too high --> should be fixed
 - The player's collider doesn't work naturally when it is hit by the furniture around the room (ex. couch) --> should use raycast to fix this problem?
 
+
+- Change FOV for camera (reduce)
+- Reduce mouse sensitivity
+- Make players unable to walk on furniture
+- Good movement
+- Unity play has good mouse sensitivity, figure out how to make itch have good sensitivity
+
 ### Activity 4
 My task: 
 
