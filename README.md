@@ -148,6 +148,10 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 ## W8 class activities
 
 ### Activity 1
+- should check the rendering pipeline at the assets store to check its compatibility
+- Edit > Project settings > Graphics to check the compatibility
+- post-processing at the end of the game build --> should set a layer for post-processing
+- drunk chicken
 
 ### Activity 2
 Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
