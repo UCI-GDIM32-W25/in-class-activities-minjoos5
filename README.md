@@ -145,7 +145,7 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 - I worked on game over, game start, and timer on the gameplay screen (UI)
 
 
-## W7 class activities
+## W8 class activities
 
 ### Activity 1
 
