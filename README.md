@@ -169,7 +169,7 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 - Unity play has good mouse sensitivity, figure out how to make itch have good sensitivity
 
 ### Activity 4
-My task: 
+My task: work on inspector, timer, and UI
 
 ### Activity 5
 
