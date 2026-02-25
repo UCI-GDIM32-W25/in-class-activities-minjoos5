@@ -157,6 +157,9 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 
 ### Activity 3
+- We reached our goal, and the game's movement works all ok
+- The player's sensitivity is too high --> should be fixed
+- The player's collider doesn't work naturally when it is hit by the furniture around the room (ex. couch) --> should use raycast to fix this problem?
 
 ### Activity 4
 My task: 
