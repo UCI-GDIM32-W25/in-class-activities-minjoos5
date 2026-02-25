@@ -167,9 +167,10 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 - Make players unable to walk on furniture
 - Good movement
 - Unity play has good mouse sensitivity, figure out how to make itch have good sensitivity
+- Assign proper skybox
 
 ### Activity 4
-My task: work on inspector, timer, and UI
+My task: work on the inspector, timer, and UI
 
 ### Activity 5
 
