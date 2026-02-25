@@ -148,7 +148,7 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 ## W8 class activities
 
 ### Activity 1
-- should check the rendering pipeline at the assets store to check its compatibility
+- Should check the rendering pipeline at the assets store to check its compatibility
 - Edit > Project settings > Graphics to check the compatibility
 - post-processing at the end of the game build --> should set a layer for post-processing
 - drunk chicken
@@ -166,7 +166,7 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 - Reduce mouse sensitivity
 - Make players unable to walk on furniture
 - Good movement
-- Unity play has good mouse sensitivity, figure out how to make itch have good sensitivity
+- Unity has good mouse sensitivity. Figure out how to make Itch have good sensitivity
 - Assign proper skybox
 
 ### Activity 4
@@ -175,10 +175,12 @@ My task: work on the inspector, timer, and UI
 Sonia: More work in Player and Item script
 Minjoo: UI script work
 Milla: Interior designing(Make gameobjects for more flexibility), Lights, AudioManager Inspector setup, make animator, assign scripts, Make player unable to walk on furniture, Better skybox
+
 Today:
-Sonia: Player Script
-Minjoo: UI Script
-Milla: Audio stuff, interior design, lights
+- Sonia: Player Script
+- Minjoo: UI Script
+- Milla: Audio stuff, interior design, lights
 
 ### Activity 5
-
+- [commit link](https://github.com/lindenreid/GDIM32-Final/commit/6c74b92aabb8a387b9657b84b4d0be3c551a2511)
+- I worked on Timer and UI
