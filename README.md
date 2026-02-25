@@ -172,5 +172,13 @@ Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 ### Activity 4
 My task: work on the inspector, timer, and UI
 
+Sonia: More work in Player and Item script
+Minjoo: UI script work
+Milla: Interior designing(Make gameobjects for more flexibility), Lights, AudioManager Inspector setup, make animator, assign scripts, Make player unable to walk on furniture, Better skybox
+Today:
+Sonia: Player Script
+Minjoo: UI Script
+Milla: Audio stuff, interior design, lights
+
 ### Activity 5
 
