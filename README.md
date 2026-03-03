@@ -184,3 +184,11 @@ Today:
 ### Activity 5
 - [commit link](https://github.com/lindenreid/GDIM32-Final/commit/6c74b92aabb8a387b9657b84b4d0be3c551a2511)
 - I worked on Timer and UI
+
+## W9 class activities
+
+### Activity 1
+### Activity 2
+### Activity 3
+### Activity 4
+### Activity 5
