@@ -188,7 +188,18 @@ Today:
 ## W9 class activities
 
 ### Activity 1
+- Scaling
+- should be performant and easy for users since it adds a lot of data.
+- A larger project requires flexible scaling & easy collaboration with teammates.
+- Scaling is directly related to FSM, MVC, and abstraction and polymorphism, so it's important to make the code scale well for better performance of the game.
+
+- Branching dialogues
+- compared to single dialogue, the multiple dialogue allows the user to make various choices, and according to the choice (or simple reaction of Duckie)
+- dialogue controler is needed if there are multiple NPCs that have dialogue node
+
 ### Activity 2
+Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 ### Activity 3
+
 ### Activity 4
 ### Activity 5
