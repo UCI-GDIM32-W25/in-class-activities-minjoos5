@@ -200,6 +200,9 @@ Today:
 ### Activity 2
 Attendance: Minjoo Shin, Milla Lucido, Sonia Mangat
 ### Activity 3
+We are actually pretty good on our project and a lot of it now just comes down to putting in the last item and audio in the code. The timer needs to be fixed up a bit, the dialogue tree will be the thing that gets the rest of the project to make sense and be functional as a game and not a walking simulator. Because the dialogue tree is going to be what gives all the quests and makes the objects have an actual use in the game, we are good with everything else. 
+Right now, the audio needs to be put in the right interaction spots, the dialogue tree needs to be made for the NPC, and the timer needs to be more fine tuned. The animations for the key and battery have to be made better and they need to be hidden. Ultimately, our project scale was pretty good considering that a lot of what we need now is quick fixes and our dialogue tree and then all credit should be good. 
+
 
 ### Activity 4
 ### Activity 5
