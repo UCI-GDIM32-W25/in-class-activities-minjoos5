@@ -205,4 +205,5 @@ Right now, the audio needs to be put in the right interaction spots, the dialogu
 
 
 ### Activity 4
+keep working on UI and fix timer
 ### Activity 5
