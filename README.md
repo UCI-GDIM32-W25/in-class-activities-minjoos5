@@ -212,3 +212,10 @@ keep working on UI and fix the timer
 ### Activity 5
 [commit link](https://github.com/lindenreid/GDIM32-Final/commit/3779eceec9c433457cedc6ce128a725796cf5377)
 - created game win screen
+
+## W9 class activities
+
+### Activity 1
+### Activity 2
+### Activity 3
+### Activity 4
