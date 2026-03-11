@@ -221,10 +221,20 @@ Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
 ### Activity 2
 Notes
 Dialogue should be fixed
+
+
 Buttons’ anchor system is not correct; it should be fixed for the final version
+
+
 Game over screen is not working. Connect game over screen with the dialogue and the timer
+
+
 A timer should be implemented in the dialogue
+
+
 The stuffed animal gives tas → timer starts → if timer is over, game is over
+
+
 Progression after getting the battery: the dialogue doesn’t advance after getting the battery; it just repeats.
 
 
