@@ -222,7 +222,7 @@ Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
 
 
 ### Activity 3
-
+We are actually pretty good on our project, and a lot of it now just comes down to adding the last item and audio to the code. Our completion this week includes the branching dialogue system, both in the inspector and the code. I programmed the audio and hooked it up in the inspector. Minjoo worked on the dialogue UI buttons, dialogue boxes & UI manager system. This is where we are supposed to be. We are also a little ahead of schedule. In terms of scope, we are doing really well; the only thing that we decided to take out is one audio track. 
 
 ### Activity 4
 [commit link](https://github.com/lindenreid/GDIM32-Final/commit/ce6945726afb368bf4a81a043ed1bb0f562719a0)
