@@ -216,6 +216,10 @@ keep working on UI and fix the timer
 ## W10 class activities
 
 ### Activity 1
+Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
+
 ### Activity 2
 ### Activity 3
+
+
 ### Activity 4
