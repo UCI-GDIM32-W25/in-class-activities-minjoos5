@@ -219,7 +219,11 @@ keep working on UI and fix the timer
 Attendance: Minjoo Shin, Sonia Mangat, Milla Lucido
 
 ### Activity 2
+
+
 ### Activity 3
 
 
 ### Activity 4
+[commit link](https://github.com/lindenreid/GDIM32-Final/commit/ce6945726afb368bf4a81a043ed1bb0f562719a0)
+- created game dialogue UI system
